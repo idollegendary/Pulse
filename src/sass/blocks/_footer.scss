@@ -43,14 +43,15 @@
         img{
             height: 27px;
         }
-        &:hover{
-            box-shadow: 3px 3px 20px #ffffff;
-            border: none;
-        }
     }
     .footer__social{
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    iframe{
+        width: 100%;
+        height: 630px;
+        border: none;
     }
 }
